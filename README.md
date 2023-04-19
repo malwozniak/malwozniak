@@ -5,14 +5,9 @@
 - 🔭  I’m interested in creating websites, mainly Front-End Development, but I’m currently learning Python and three.js.   
   
 
-- 🌱Javascript enthusiast who is gaining knowledge about the recent technologies  
+- 🌱Javascript enthusiast who is gaining knowledge about the recent technologies.
   
   
-```
-while(noSuccess){ 
-tryAgain();
-}  
-  ````
 
 <br/>  
 
@@ -115,7 +110,7 @@ tryAgain();
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app)/api?username=malwozniak&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malwozniak&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
