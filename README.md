@@ -1,7 +1,3 @@
-<!-- <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-   -->
 
 ### <div align="center">👋 Hi, I’m @malwozniak 👀I'm Front-End developer.👨‍💻🚀</div>  
   
@@ -11,8 +7,6 @@
 
 - 🌱Javascript enthusiast who is gaining knowledge about the recent technologies  
   
-
-- ❓ Ask me about anything related to frameworks like React or Data Science 
   
   
 
