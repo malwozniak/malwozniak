@@ -113,7 +113,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malwozniak&theme=cobalt)](https://github.com/malwozniak/github-readme-stats)
   </td>
-<td valign="bottom" width="50%">
+<td valign="center" width="50%">
 
 ## GitHub Stats Card
 
