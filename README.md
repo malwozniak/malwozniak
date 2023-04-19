@@ -109,8 +109,16 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malwozniak&show_icons=true&count_private=false&hide_border=true" align="center" /></div>  
+## Most Used Languages Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malwozniak&theme=cobalt)](https://github.com/malwozniak/github-readme-stats)
+
+
+## GitHub Stats Card
+
+[![malwozniak's GitHub stats](https://github-readme-stats.vercel.app/api?username=malwozniak&show_icons=true)](https://github.com/malwozniak/github-readme-stats)
+
+
 
 <br/>  
 
