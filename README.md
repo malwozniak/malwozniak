@@ -8,9 +8,6 @@
 - 🌱Javascript enthusiast who is gaining knowledge about the recent technologies  
   
   
-  
-
-- 📈 Don't give up
 ```
 while(noSuccess){ 
 tryAgain();
