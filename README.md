@@ -13,7 +13,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -107,18 +107,19 @@
   
 
 <br/>  
-
+<table><tr><td valign="bottom" width="50%">
 
 ## Most Used Languages Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malwozniak&theme=cobalt)](https://github.com/malwozniak/github-readme-stats)
-
+  </td>
+<td valign="bottom" width="50%">
 
 ## GitHub Stats Card
 
 [![malwozniak's GitHub stats](https://github-readme-stats.vercel.app/api?username=malwozniak&show_icons=true)](https://github.com/malwozniak/github-readme-stats)
 
-
+  </td></tr></table>
 
 <br/>  
 
